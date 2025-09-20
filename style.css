@@ -3,13 +3,25 @@ body {
 }
 
 h1 {
-  color:lightpink;
+    border-bottom: 2px;
+  color:lightpink
   margin-left: auto;
   font-style: normal;
+  border-colour::cue
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 title{
     colour: lightpink;
     margin-bottom: auto;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+p{
+    colour:lightpink
+
+
+
+}
+div{ 
+    border
+
 }
