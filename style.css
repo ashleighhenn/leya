@@ -4,7 +4,12 @@ body {
 
 h1 {
   color:lightpink;
-  margin-left: 20px;
+  margin-left: auto;
   font-style: normal;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+title{
+    colour: lightpink;
+    margin-bottom: auto;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
 }
