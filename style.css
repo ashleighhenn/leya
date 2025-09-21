@@ -2,6 +2,12 @@ body {
   background-color: palevioletred;
 }
 
+font {
+  color: lightpink;
+  margin-bottom: auto;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
 h1 {
   color: lightpink;
   margin-bottom: auto;
