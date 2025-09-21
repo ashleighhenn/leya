@@ -1,25 +1,24 @@
 body {
-  background-color:palevioletred;
+  background-color: palevioletred;
 }
 
 h1 {
-  color:lightpink
-  font-style: normal;
-  border-colour::cue
+  color: lightpink;
+  margin-bottom: auto;
   font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-title{
-    colour: lightpink;
-    margin-bottom: auto;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+
+title {
+  color: lightpink;
+  margin-bottom: auto;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
-p{
-    colour:lightpink
 
-
-
+p {
+  color: lightpink
 }
-div{ 
-    border
+
+div {
+  border-color: azure;
 
 }
